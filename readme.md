@@ -79,14 +79,6 @@ images/
     └── ...
 ```
 
-## 🔧 Customization
-
-You can modify the script to:
-
-- Change default download directory
-- Adjust logging verbosity
-- Customize WebDriver options
-
 ## ⚠️ Troubleshooting
 
 - Ensure Firefox is installed
@@ -103,6 +95,6 @@ Contributions are welcome! Please:
 
 ## 📄 License
 
-[MIT licensed](./LICENSE)
+[MIT License](./LICENSE)
 
 **Happy Wallpaper Collecting!** 🖼️✨
